@@ -1,3 +1,11 @@
+/**
+ * @file matrix.h
+ *
+ * @brief This is the main header file for MatrixLib
+ *
+ * @author Owen Kuhn
+ *
+ */
 #ifndef MATRIXLIB_H
 #define MATRIXLIB_H
 
