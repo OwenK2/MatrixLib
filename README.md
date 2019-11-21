@@ -1,6 +1,11 @@
 # MatrixLib
 A simple matrix library for C++ with basic functionality
 
+## Installing
+Simply include the contents of the src folder except the main.cpp file into your project and add  
+`#include "matrixlib.h"`  
+`using namespace MatrixLib;`
+
 ## API
 
 ### Constructors
